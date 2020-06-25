@@ -1,0 +1,13 @@
+.uploadIcon {
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+
+button.closeBtn {
+    padding: 10px 20px;
+    margin: 20px 0;
+    background-color: #1377c9;
+    color: #fff;
+    cursor: pointer;
+}
